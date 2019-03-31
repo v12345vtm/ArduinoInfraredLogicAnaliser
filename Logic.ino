@@ -4,6 +4,7 @@
  *
  * modified by v12345vtm
  * see https://www.youtube.com/user/v12345vtm
+ * code : https://github.com/v12345vtm/ArduinoInfraredLogicAnaliser/blob/master/Logic.ino
  *
  *1)log every buttun
  *2)paste in exel and sort each line 
